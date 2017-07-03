@@ -14,7 +14,7 @@ Normal |Depth
 ![alt text][URAI17 Normal] | ![alt text][URAI17 Depth] 
 
 ## References
-- Joo-Haeng Lee et al., "Synthetic Learning Set for Object Pose Estimation: Initial Experiments," URAI 2017. [PDF](https://github.com/joohaeng/SLS4ML/blob/master/URAI2017%20ModMan.SLS%20Revision.pdf)
+- Joo-Haeng Lee et al., "Synthetic Learning Set for Object Pose Estimation: Initial Experiments," URAI 2017. [[Paper](https://github.com/joohaeng/SLS4ML/blob/master/URAI2017%20ModMan.SLS%20Revision.pdf)] [[Slide](https://github.com/joohaeng/SLS4ML/blob/master/ModMan.SLS%20URAI%202017%20comp.pdf)]
 
 [URAI17 RGB]: fig/URAI2017/23-RGB-2.png "RGB images"
 [URAI17 XYZ]: fig/URAI2017/23-XYZ.png "XYZ images"
